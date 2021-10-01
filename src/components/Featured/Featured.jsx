@@ -34,7 +34,8 @@ const Featured = ({type}) => {
             <div className="info">
                 <img src="https://occ-0-7-6.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABRHnagBR9hIGuc9W0baxi1zqbevmcM61lT5JzvBSOka6dJRtAseM0-Ws3-7rP9fuTcoekv72ppf6BtiUqkHQxehPiOrhs6_EgpVsyfWDYmh-ugxRVIFIUkBF48RrGzyi7UimArJJuxC7EKScEswy2kSIpg9EsIlgStGQ2QjDJBRQPw.png?r=32c" alt="" />
                 <span className="desc">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magnam commodi totam soluta quae, neque quod natus aperiam maiores esse eum modi voluptate sapiente. Nostrum suscipit architecto perferendis? Id, mollitia ullam!
+                    In the magical land of Xadia, magic comes from six primal sources: the sun, moon, stars, sky, earth and ocean. When human mages create a seventh kind of magic -- dark magic -- they start capturing and harvesting the unique magical creatures they need as ingredients, which sparks a war between Xadia and the Human Kingdoms. Three kids from opposite sides of the conflict
+                    -- two princes and an elven assassin sent to kill them -- discover a secret that could change everything and decide to join forces and go on an epic journey.
                 </span>
                 <div className = "buttons">
                     <button className="play">
